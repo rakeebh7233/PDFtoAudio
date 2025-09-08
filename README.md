@@ -28,6 +28,9 @@ Install dependencies with:
 ```bash
 pip install pyttsx3 PyPDF2
 ```
+## :camera: Snapshots
+<img width="503" height="334" alt="PDFtoAudioGUI" src="https://github.com/user-attachments/assets/8c81dc80-6bc5-4727-a10d-312806c504a9" />
+
 
 ## 📂 Project Structure
 ```bash
